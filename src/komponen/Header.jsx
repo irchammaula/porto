@@ -28,7 +28,7 @@ export default function Header() {
   
           {/* Navbar Center (Desktop Menu) */}
           <div className="hidden lg:flex">
-            <ul className="menu menu-horizontal justify-center border pl-[64px]">
+            <ul className="menu menu-horizontal justify-center pl-[64px]">
               <li><a>Home</a></li>
               <li>
                 <details>
