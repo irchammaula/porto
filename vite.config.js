@@ -8,4 +8,5 @@ export default defineConfig({
     tailwindcss(),
     // tailgrids(),
   ],
+  base: "/belajarreact",
 })
